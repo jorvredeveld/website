@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:jorvredeveld@gmail.com".
+  link: "mailto:jorvredeveld@gmail.com"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jorvredeveld
