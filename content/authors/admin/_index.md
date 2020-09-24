@@ -27,10 +27,10 @@ interests:
 
 education:
   courses:
-  - course: Master's student Data Science and Society.
+  - course: Master's student Data Science and Society
     institution: Tilburg University University
     year: 2019-2021
-  - course: BA in Communication and Information Science/English Linguistics
+  - course: BA in Communication and Information Science
     institution: VU University Amterdam
     year: 2013
 
@@ -68,5 +68,5 @@ email: "jorvredeveld@gmail.com"
 # - Visitors
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hi! Welcome to my personal site. Here you can find my blog posts on data science and links to my social media profiles. The website is currently still under construction, but more content is on its way!
 
