@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: Master's student Data Science and Society
-    institution: Tilburg University University
+    institution: Tilburg University
     year: 2019-2021
   - course: BA in Communication and Information Science
     institution: VU University Amterdam
