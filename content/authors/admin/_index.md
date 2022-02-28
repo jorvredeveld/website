@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MEng in Artificial Intelligence
+  - course: Master's student Data Science and Society
     institution: Tilburg University, The Netherlands
     year: 2023
   - course: BA in Communication and Information Science
