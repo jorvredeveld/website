@@ -64,5 +64,5 @@ email: "jorvredeveld@gmail.com"
 highlight_name: true
 ---
 
-Hi! Welcome to my personal site. Here you can find my blog posts on machine learning and links to my social media profiles. The website is currently under constructin, but more content is on its way!
+Hi! Welcome to my personal site. Here you can find my blog posts on machine learning and links to my social media profiles. The website is currently under construction, but more content is on its way!
 
