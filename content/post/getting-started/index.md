@@ -1,5 +1,5 @@
 ---
-title: Example post
+title: Example Post
 subtitle: Temporary placeholder for first blog post.
 
 # Summary for listings and search engines
