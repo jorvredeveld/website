@@ -1,8 +1,8 @@
 ---
 title: Example Project
-summary: An example of using the in-built project page.
+summary: Temporary placeholder for personal project.
 tags:
-- Deep Learning
+- Coming Soon
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
