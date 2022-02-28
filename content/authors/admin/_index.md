@@ -11,7 +11,7 @@ role: Master's student Data Science
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Tilburg University
-  url: https://www.tilburguniversity.edu/education/masters-programmes/data-science-and-society/
+#  url: https://www.tilburguniversity.edu/education/masters-programmes/data-science-and-society/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include recommender systems, pattern mining and natural language processing.
@@ -26,10 +26,10 @@ interests:
 education:
   courses:
   - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
+    institution: Tilburg University, The Netherlands
+    year: 2023
   - course: BA in Communication and Information Science
-    institution: Massachusetts Institute of Technology
+    institution: VU Amsterdam, The Netherlands
     year: 2013
 
 # Social/Academic Networking
@@ -40,9 +40,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/jorvredeveld
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/jorvredeveld
 - icon: github
   icon_pack: fab
   link: https://github.com/jorvredeveld
