@@ -1,6 +1,6 @@
-#Personal website
+# Personal website
 
-##Stack used:
+## Stack used:
 [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
 Netlify
 Hugo
