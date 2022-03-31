@@ -18,9 +18,9 @@ bio: My research interests include recommender systems, pattern mining and natur
 
 # Interests to show in About widget
 interests:
-- Recommender Systems
-- Pattern Mining
-- Natural Language Processing
+- Recommender systems
+- Pattern mining
+- Natural language processing
 
 # Education to show in About widget
 education:
