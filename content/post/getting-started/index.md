@@ -14,7 +14,7 @@ categories:
   - Demo
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/hvSr_CVecVI)"
   focal_point: ""
   placement: 2
   preview_only: false
