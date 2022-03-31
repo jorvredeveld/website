@@ -1,41 +1,24 @@
 ---
 title: Example Post
 subtitle: Temporary placeholder for first blog post.
-
-# Summary for listings and search engines
+date: 2020-12-13T00:00:00Z
 summary: Temporary placeholder for first blog post.
-
-# Link this post with a project
-projects: []
-
-# Date published
-date: "2020-12-13T00:00:00Z"
-
-# Date updated
-lastmod: "2020-12-13T00:00:00Z"
-
-# Is this an unpublished draft?
 draft: false
-
-# Show this page in the Featured widget?
 featured: false
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+authors:
+  - admin
+lastmod: 2020-12-13T00:00:00Z
+tags:
+  - Academic
+categories:
+  - Demo
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
   focal_point: ""
   placement: 2
   preview_only: false
-
-authors:
-- admin
-
-tags:
-- Academic
-
-categories:
-- Demo
+  filename: featured.jpg
 ---
 
 
