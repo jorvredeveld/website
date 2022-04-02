@@ -27,7 +27,7 @@ education:
   courses:
   - course: Master's student Data Science and Society
     institution: Tilburg University, The Netherlands
-    year: 2023
+    year: Expected graduation: 2023
   - course: Bachelor's degree Communication and Information Sciences
     institution: VU Amsterdam, The Netherlands
     year: 2013
