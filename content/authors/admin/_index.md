@@ -14,7 +14,7 @@ organizations:
 #  url: https://www.tilburguniversity.edu/education/masters-programmes/data-science-and-society/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include recommender systems, pattern mining and natural language processing.
+bio: My interests include machine learning, data engineering and cloud computing.
 
 # Interests to show in About widget
 interests:
